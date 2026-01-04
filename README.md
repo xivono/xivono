@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xivono&label=Profile%20views&color=0e75b6&style=flat" alt="xivono" /> </p>
 
-- 🌱 I’m currently a **Bachelor of computer Information systems student**
+- 🌱 I’m a **Bachelor of computer Information systems graduate**
 
 - 👨‍💻 All of my projects are available at [https://shivono-baloyi-portofolio-website.vercel.app/#](https://shivono-baloyi-portofolio-website.vercel.app/#)
 
 - 📫 How to reach me **makondo.xb@gmail.com**
 
-- ⚡ Fun fact **I love problem solving and guitarist on occasion**
+- ⚡ Fun fact **I love problem solving and collaborating**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
